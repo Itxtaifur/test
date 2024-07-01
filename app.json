@@ -13,7 +13,7 @@
     "env": {
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
-            "required": false,
+            "required": true,
             "value": ""
         },
         "DATABASE_URL": {
